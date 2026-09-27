@@ -47,10 +47,10 @@ interface TaskRepository {
 
 ## Deploy
 
-- Private GitHub repository `Ali-Bin-Shoaib/daily-tasks`.
+- GitHub repository `Ali-Bin-Shoaib/daily-tasks`.
 - Pushes to `main` run tests and publish `dist` with GitHub Actions.
 - Public site: `https://ali-bin-shoaib.github.io/daily-tasks/`.
-- The repository stays private. The published Pages site is public.
+- The repository is public because GitHub Free only serves Pages from a public repository. Tasks stay in the browser and are not committed.
 
 ## Tests
 

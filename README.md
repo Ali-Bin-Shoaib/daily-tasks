@@ -25,6 +25,8 @@ Tasks are saved in `localStorage` under `daily-tasks:v1`, with the local date th
 
 ## GitHub Pages
 
-Pushes to `main` publish the site. The repository is private. The published site is public:
+Pushes to `main` publish the site:
 
 https://ali-bin-shoaib.github.io/daily-tasks/
+
+GitHub Free only serves Pages from a public repository, so this repository is public. Task data stays in each browser. It is not stored in the repository.
